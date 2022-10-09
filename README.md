@@ -3,8 +3,13 @@ The official website of the Pekanu Research Group
 
 Fair payment is a means of achieving some level of confidence in a transaction, and this architecture is already being employed by multiple cloud platforms in the current environment. This project proposes blockchain based solution which is zero knowledge proof free and aims to achieve robust fairness for both the users and the workers.
 
+
 ## ARCHITECTURE FOR BLOCKCHAIN-BASED FAIR PAYMENT SYSTEM:
-![image](https://user-images.githubusercontent.com/93195979/194738849-8a811686-e167-4786-996a-c7a4522c43a8.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93195979/194738849-8a811686-e167-4786-996a-c7a4522c43a8.png" />
+</p>
+
 
 1- The cloud storage server S-CSP* deploys the server contract ServerContract to blockchain.
 2- The client registers in the cloud deduplication system for payment.
